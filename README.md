@@ -22,7 +22,7 @@
 
 * [Email](mailto:jeanjfra@gmail.com)
 * [Instagram](https://www.instagram.com/jean_f.r.a/)
-* [LinkedIn](https://br.linkedin.com/in/jean-felipe-dos-reis-almeida-4337bb1a6)
+* [LinkedIn](https://www.linkedin.com/in/jean-felipe-dos-reis-almeida-4337bb1a6/)
 <!--
 **naejshaw/naejshaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
