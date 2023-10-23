@@ -1,7 +1,7 @@
 ### 👋 My name is Jean. I'm starter front end developer
 I’m currently learning about Angular, React and Java
 
-## ABOUT ME
+### ABOUT ME
 
 Passionate about games, programming, and technology. I am seeking opportunities to learn and grow as a developer. I enjoy solving problems and am constantly looking for new challenges.
 In addition to my interest in programming, I had the opportunity to participate in training on agile methodologies, with a focus on Scrum, and after the training, I was able to obtain the PSM I certification from Scrum.org.
