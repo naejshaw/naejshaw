@@ -6,11 +6,11 @@ I’m currently learning about Angular, React and Java
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
-[![Java](https://img.shields.io/badge/Java?style=flat&logo=Java&logoColor=white&link=https://github.com/naejshaw)](https://github.com/naejshaw)
+[![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=Java&logoColor=white&link=https://github.com/naejshaw)](https://github.com/naejshaw)
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
-[![Angular](https://img.shields.io/badge/-Angular?style=flat&logo=angular&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
+[![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js&link=https://github.com/hritik5102)](https://github.com/hritik5102) 
 
