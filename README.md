@@ -6,8 +6,8 @@ I’m currently learning about Angular, React and Java
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&link=https://github.com/naejshaw)](https://github.com/naejshaw)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&link=https://github.com/naejshaw)](https://github.com/naejshaw)
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/naejshaw)](https://github.com/naejshaw) 
