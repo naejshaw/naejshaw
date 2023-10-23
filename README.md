@@ -19,7 +19,7 @@ I’m currently learning about Angular, React and Java
 
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naejshaw&repo=leetcode-googtech)](https://github.com/naejshaw/leetcode-googtech)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=naejshaw&repo=naejshaw)](https://github.com/naejshaw/naejshaw)
 
 
 ### 🏆 Github Status
