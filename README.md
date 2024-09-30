@@ -31,7 +31,7 @@ On a personal level, I am passionate about cultural expressions, especially musi
 
 
 ### 👀 Active Repo
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Naejshaw&repo=trilha-css-desafio-01)](https://github.com/naejshaw/trilha-css-desafio-01)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Naejshaw&repo=Projetos-React)](https://github.com/naejshaw/Projetos-React)
 
 
 ### 🏆 Github Status
